@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Khatik</h1>
 <h3 align="center">🚀 Final Year Engineering Student | Full Stack Developer | AI/ML Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohitkhatik09&theme=radical&margin-w=10&margin-h=15&no-bg=true&row=2&column=3" alt="trophy" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
